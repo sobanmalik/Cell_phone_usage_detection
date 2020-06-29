@@ -1,0 +1,6 @@
+classes= 18
+train  = custom_yolo/train.txt  
+valid  = custom_yolo/test.txt  
+names = custom_yolo/object.names  
+backup = backup_new/
+

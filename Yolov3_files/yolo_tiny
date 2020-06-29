@@ -1,0 +1,4 @@
+#PBS -l walltime=24:00:00
+cd $PBS_O_WORKDIR
+source activate cctv
+./darknet detector train custom_yolo/trainer.data custom_yolo/yolov3-tiny.cfg backup_new/yolov3-tiny_14000.weights -map
