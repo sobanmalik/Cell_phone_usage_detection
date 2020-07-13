@@ -22,8 +22,7 @@ Inferencing:
      1. Inferencing is being done on real time surveillance camera videos of the office using a pipeline of 
          classification model on top of localization model in OpenCV.
      2. Getting decent results after fine tuning threshold and input image size (to class. model)
-        parameters. Model to be tuned further.
-     3.	Lag to be reduced further. 
+        parameters. Model to be tuned further. Lag to be reduced further. 
 
 
 Model Size: 269 MB ( Localization Model: 236 MB, Classification Model: 33MB)
