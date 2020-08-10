@@ -27,3 +27,11 @@ Inferencing:
 
 Model Size: 269 MB ( Localization Model: 236 MB, Classification Model: 33MB)
 
+Sample Output: 
+
+Parameters: Input image (Classification Model) > (20,80)
+	         Confidence Threshold = 0.4
+	         NMS Threshold = 0.3
+![](inf_1.png)
+![](inf_2.png)
+
