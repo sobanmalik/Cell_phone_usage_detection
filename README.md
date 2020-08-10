@@ -15,7 +15,7 @@ Training: (Classification Model)
      
      1. Training was done on a dataset consisting of web scraped images of persons using cell
          phones in different postures and angles. Training template attached for reference.
-      2. Final model has an MAP of 92.64% on a validation set of (1601-178) train-val split.
+      2. Final model has a MAP of 92.64% on a validation set of (1601-178) train-val split.
 
 Inferencing:
       
